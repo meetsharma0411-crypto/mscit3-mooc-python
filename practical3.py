@@ -2,7 +2,7 @@ std = []
 
 sub = ["python", "maths", "dbms", "statistics", "computer"]
 
-for i in range(2):
+for i in range(10):
     rn = int(input("roll number: "))
     nm = input("name: ")
 
